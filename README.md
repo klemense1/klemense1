@@ -10,9 +10,7 @@
 - ⚙️ I use daily: Python <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> and C++ <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> 
 
 ##### HOW TO REACH ME
-- <a href="https://www.linkedin.com/in/klemens-esterle/">
-  <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a> [My LinkedIn Profile](https://www.linkedin.com/in/klemens-esterle/)
+- [LinkedIn](https://www.linkedin.com/in/klemens-esterle/)
 
 ##### CHECK OUT MY PUBLICATIONS
 

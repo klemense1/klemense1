@@ -1,12 +1,13 @@
 #  Hello there! 👋
 
-#### I'm a Autonomous Vehicles Researcher working in Munich, Germany.
+#### I'm a software engineer working on autonomous vehicles from Munich, Germany.
 
 ##### BIO
 
 - 🚗 I focus on developing, simulating and verifying planning algorithms for autonomous driving
-- 🏢 I'm currently working at **fortiss GmbH**
-- 🔭 I’m currently a Ph.D. student in computer science at the **Technical University of Munich** 🎓
+- 🏢 I'm currently working at **BMW Group**
+- 🔭 I have a Ph.D. in computer science from the **Technical University of Munich** 🎓
+- 🔭 I have a diploma in mechatronics engineering from the **Technical University Dresden** 🎓
 - ⚙️ I use daily: Python <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> and C++ <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> 
 
 ##### HOW TO REACH ME

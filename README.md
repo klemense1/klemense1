@@ -1,6 +1,6 @@
 #  Hello there! 👋
 
-#### I'm a software engineer working on autonomous vehicles from Munich, Germany.
+#### I'm a software engineer working on autonomous vehicles located in Munich, Germany.
 
 ##### BIO
 

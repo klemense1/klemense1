@@ -15,6 +15,7 @@
 
 ##### CHECK OUT MY PUBLICATIONS
 
+* [Mixed-Integer Motion Planning on German Roads within the Apollo Driving Stack](https://ieeexplore.ieee.org/document/9743646) (Transactions on Intelligent Vehicles 2022)
 * [BARK: Open Behavior Benchmarking in Multi-Agent Environments](https://ieeexplore.ieee.org/document/9341222) (IROS 2020)
 * [Formalizing Traffic Rules for Machine Interpretability](https://arxiv.org/abs/2007.00330) (CAVS 2020)
 * [Modeling and Testing Multi-Agent Traffic Rules within Interactive Behavior Planning](https://arxiv.org/abs/2009.14186) (IROS 2020,  PLC Workshop)

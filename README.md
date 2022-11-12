@@ -8,13 +8,14 @@
 - 🏢 I'm currently working at **BMW Group**
 - 🔭 I have a Ph.D. in computer science from the **Technical University of Munich** 🎓
 - 🔭 I have a diploma in mechatronics engineering from the **Technical University Dresden** 🎓
-- ⚙️ I use daily: Python <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /> and C++ <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> 
+- ⚙️ I use daily: C++ <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /> 
 
 ##### HOW TO REACH ME
 - [LinkedIn](https://www.linkedin.com/in/klemens-esterle/)
 
 ##### CHECK OUT MY PUBLICATIONS
 
+* [MONA: The Munich Motion Dataset of Natural Driving](https://ieeexplore.ieee.org/document/9922263) (ITSC 2022)
 * [Mixed-Integer Motion Planning on German Roads within the Apollo Driving Stack](https://ieeexplore.ieee.org/document/9743646) (Transactions on Intelligent Vehicles 2022)
 * [BARK: Open Behavior Benchmarking in Multi-Agent Environments](https://ieeexplore.ieee.org/document/9341222) (IROS 2020)
 * [Formalizing Traffic Rules for Machine Interpretability](https://arxiv.org/abs/2007.00330) (CAVS 2020)
